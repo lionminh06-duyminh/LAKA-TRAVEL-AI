@@ -1,0 +1,8 @@
+{
+  "name": "LaKa Travel",
+  "description": "Vibrant AI-powered Gen Z travel planner in Vietnam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
